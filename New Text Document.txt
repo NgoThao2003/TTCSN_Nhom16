@@ -1,3 +1,0 @@
-git add .
-git commit -m 'ten"
-git push origin master "ten nhanh"
